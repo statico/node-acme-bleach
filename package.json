@@ -1,0 +1,9 @@
+{
+  "name": "acme-bleach",
+  "version": "1.0.0",
+  "description": "For really clean programs",
+  "main": "index.js",
+  "repository": "https://github.com/statico/node-acme-bleach.git",
+  "author": "Ian Langworth <ian@langworth.com>",
+  "license": "MIT"
+}

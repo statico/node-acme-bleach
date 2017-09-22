@@ -1,0 +1,13 @@
+*.tgz
+.env
+.eslintcache
+.node_repl_history
+.npm
+.yarn-integrity
+build/Release
+coverage
+lib-cov
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
